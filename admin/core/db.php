@@ -1,1 +1,0 @@
-<?php $conn = new mysqli('localhost', 'edu.project', 'Tvvcrtv1610@', 'edu.project'); mysqli_set_charset($conn, 'utf8mb4'); ?>
